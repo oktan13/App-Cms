@@ -1,0 +1,16 @@
+{
+    "name": "diskd/app-cms.loc",
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    },
+    "authors": [
+        {
+            "name": "kvinter",
+            "email": "diskdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
